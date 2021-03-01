@@ -1,39 +1,9 @@
-{
- "cells": [
-  {
-   "cell_type": "markdown",
-   "metadata": {},
-   "source": [
-    "# Title"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": null,
-   "metadata": {},
-   "outputs": [],
-   "source": []
-  }
- ],
- "metadata": {
-  "kernelspec": {
-   "display_name": "Python 3",
-   "language": "python",
-   "name": "python3"
-  },
-  "language_info": {
-   "codemirror_mode": {
-    "name": "ipython",
-    "version": 3
-   },
-   "file_extension": ".py",
-   "mimetype": "text/x-python",
-   "name": "python",
-   "nbconvert_exporter": "python",
-   "pygments_lexer": "ipython3",
-   "version": "3.7.9"
-  }
- },
- "nbformat": 4,
- "nbformat_minor": 4
-}
+---
+title: "Personal Informatics"
+date: 2020-12-06
+tags: [data wrangling, data science, messy data, step count]
+header:
+  image: "/images/perceptron/percept.jpg"
+excerpt: "Data Wrangling, Data Science, Messy Data, Step Count"
+mathjax: "true"
+---
