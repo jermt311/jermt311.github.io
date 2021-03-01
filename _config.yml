@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "Jeremy Tan"
-  avatar           : "/images/IMG_7729.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/IMG_7933.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio"
   location         : "Singapore"
   email            :
